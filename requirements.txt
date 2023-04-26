@@ -1,0 +1,17 @@
+matplotlib
+numpy
+pandas
+protobuf
+requests
+scikit_learn
+seaborn
+streamlit
+torch == 1.6
+torchsummary
+torchtext
+torchvision
+tqdm
+pytorch_tabular
+os 
+webbrowser
+joblib
