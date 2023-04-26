@@ -15,7 +15,7 @@ directory for saved model objects
 ***
 
 ### data 
-directory to house data (currently empty)
+directory to house data. Only the geographic data frame is saved here as the other data contains patient information and cannot be housed on GitHub.
 ***
 
 ### notebooks 
