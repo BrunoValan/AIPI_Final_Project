@@ -7,12 +7,8 @@ contains requirements for this project. Note that all dependencies are the most 
 ***
 
 ### setup.py 
-contains script for data loading, merging, feature generation and pre-processing and model trainng 
+contains script for data loading, merging, feature generation and pre-processing and model trainng and prediction. Run this file throught the command line to output the classification report of the optimized model on the test set. 
 *** 
-
-### app,py 
-currently contains script to generate predictions on test set. 
-***
 
 ### models 
 directory for saved model objects
